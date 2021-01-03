@@ -7,7 +7,7 @@
 
 <img width="200" alt="portfolio_view" src="https://i.ibb.co/d6z56Fj/Nexus-6-P-Screenshot-2.png" hspace="20">
 
-<img width="200" alt="portfolio_view" src="https://i.ibb.co/XXnS4sf/Nexus-6-P-Screenshot-4.png" hspace="20">
+<img width="200" alt="portfolio_view" src="https://i.ibb.co/XXnS4sf/Nexus-6-P-Screenshot-4.png">
 
 <img width="200" alt="portfolio_view" src="https://i.ibb.co/JF6g9pK/Nexus-6-P-Screenshot-1.png" hspace="20">
 </div>
