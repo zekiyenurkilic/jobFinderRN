@@ -1,13 +1,13 @@
 # jobFinderRN
 
 <div>
-<img width="200" alt="portfolio_view" src="https://drive.google.com/file/d/1L3UEQxBc8kPDGsV6r6KN-PUtgK49uhzQ/view?usp=sharing">
+<img width="200" alt="portfolio_view" src="https://i.ibb.co/LhCfjKD/Nexus-6-P-Screenshot-3.png">
 
-<img width="200" alt="portfolio_view" src="https://drive.google.com/file/d/1cx23x50hmmV_ADya38066SS3nRSlerj1/view?usp=sharing" hspace="20">
+<img width="200" alt="portfolio_view" src="https://i.ibb.co/wC81V9j/Nexus-6-P-Screenshot-5.png" hspace="20">
 
-<img width="200" alt="portfolio_view" src="https://drive.google.com/file/d/1s2TDWRj0WTkMEwyz6-cIqnwtZ2V3tUo_/view?usp=sharing" hspace="20">
+<img width="200" alt="portfolio_view" src="https://i.ibb.co/d6z56Fj/Nexus-6-P-Screenshot-2.png" hspace="20">
 
-<img width="200" alt="portfolio_view" src="https://drive.google.com/file/d/1qAIBW1eJrLd11TcUELxFln73VW6HxvDN/view?usp=sharing" hspace="20">
+<img width="200" alt="portfolio_view" src="https://i.ibb.co/XXnS4sf/Nexus-6-P-Screenshot-4.png" hspace="20">
 
-<img width="200" alt="portfolio_view" src="https://drive.google.com/file/d/1G4Bjo5ONqGkVxFfipwzT6bWPDWjNyJrj/view?usp=sharing" hspace="20">
+<img width="200" alt="portfolio_view" src="https://i.ibb.co/JF6g9pK/Nexus-6-P-Screenshot-1.png" hspace="20">
 </div>
