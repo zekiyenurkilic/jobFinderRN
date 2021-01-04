@@ -27,28 +27,6 @@ const HomePage = ({navigation}) => {
     {id: 2, name: 'Design'},
     {id: 3, name: 'Development'},
   ];
-  // const popularJobs = [
-  //   {
-  //     id: 1,
-  //     image: 'https://egegen.com/blog/wp-content/uploads/2017/03/google.jpg',
-  //     firmName: 'Google',
-  //     positionName: 'Senior Developer',
-  //     price: '$8k',
-  //     country: 'Tokyo,Japan',
-  //     like: false,
-  //     time: 'Full Time',
-  //   },
-  //   {
-  //     id: 2,
-  //     image: 'https://egegen.com/blog/wp-content/uploads/2017/03/google.jpg',
-  //     firmName: 'Google',
-  //     positionName: 'Senior Developer',
-  //     price: '$8k',
-  //     country: 'Tokyo,Japan',
-  //     like: false,
-  //     time: 'Full Time',
-  //   },
-  // ];
 
   const _renderItem = ({item, index}) => {
     let job = item;
